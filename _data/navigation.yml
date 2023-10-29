@@ -2,12 +2,10 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "Portfolio"
+  
+  - title "Talks"
+    url: /talks/
+
+  - title: "Random"
     url: /portfolio/     
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
