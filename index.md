@@ -2,11 +2,11 @@
 layout: home
 ---
 
-<div class="row justify-content-md-center" style="margin-bottom: 20px;">
-<div class="col-md-4 col-sm-4">
+<div class="row justify-content-md-center" style="margin-bottom: 18px;">
+<div class="col-md-4.5 col-sm-4.5">
 <div class="text-center">
 <img src="/img/p.png" class="rounded-circle img-fluid my-profile-picture" alt="my picture">
-<p class="my-name">Fu</p>
+<p class="my-name">Fu Li</p>
 <p class="my-position">PhD Student</p>
 <p class="my-cv" markdown="1">[CV](/img/cv.pdf) (update on 11/2023)</p>
 </div>
@@ -36,7 +36,6 @@ Hello friends! Welcome to my page! I am *Fu Li*, a Ph.D candidate from [Compuata
 <hr>
 
 <h3 class="text-center">Selected Publications</h3>
-i
 <hr>
 
 <div class="row my-pub-main">
