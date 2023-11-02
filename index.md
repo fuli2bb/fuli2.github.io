@@ -5,7 +5,7 @@ layout: home
 <div class="row justify-content-md-center" style="margin-bottom: 20px;">
 <div class="col-md-4 col-sm-4">
 <div class="text-center">
-<img src="/img/photo.png" class="rounded-circle img-fluid my-profile-picture" alt="my picture">
+<img src="/img/p.png" class="rounded-circle img-fluid my-profile-picture" alt="my picture">
 <p class="my-name">Fu</p>
 <p class="my-position">PhD Student</p>
 <p class="my-cv" markdown="1">[CV](/img/cv.pdf) (update on 02/01/2022)</p>
