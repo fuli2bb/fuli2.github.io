@@ -1,0 +1,63 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "styles";
+
+.my-main-nav {
+  background-image: url('/img/banner.jpg');
+  background-size: auto;
+  @media only screen and (min-width: 960px) {
+	background-size: 100%;
+  }
+}
+
+.my-top-margin {
+  margin-bottom: 100px;
+  @media only screen and (max-width: 576px) {
+    margin-bottom: 80px;
+  }
+}
+
+.my-profile-picture {
+  @media only screen and (max-width: 576px) {
+    max-width: 50%;
+    margin-bottom: 20px;
+  }
+}
+
+
+.my-pub-section {
+  background-color: $gray-100;
+}
+
+.my-pub-heading {
+  font-weight: bold;
+}
+
+.my-pub-summary {
+  font-weight: lighter;
+  color:$gray-600;
+}
+
+.my-position {
+  margin-top:5px;
+  font-weight: lighter;
+  color:$gray-600;
+  font-size: 20px;
+}
+
+.my-name {
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+
+.my-pub-main{
+  >div.my-pub-r{
+    > p{
+      margin: 0;
+    }
+  }
+}
