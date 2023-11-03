@@ -18,7 +18,8 @@ Hello, I am *Fu Li*, a Ph.D candidate from [Compuatational Imaging Science Lab](
 **Research Interest:** Computational imaging, Medical imaging, Full waveform inversion, Ultrasound tomography.
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=IKi0xjEAAAAJ&view_op=list_works&gmla=AJsN-F7hggU61uR5_cE_O-VC89NGVzEXDMnqdBo4ITiQrRn6z-DBZMmNmeKM0SmEUuX8YpYayEIm6B6T8eNNKAZ72c3osf0CPA),
-[ResearchGate](https://www.researchgate.net/profile/Fu-Li-16).
+[ResearchGate](https://www.researchgate.net/profile/Fu-Li-16),
+[Linkedin](https://www.linkedin.com/in/lifu2bkop/).
 
 </div>
 </div>
