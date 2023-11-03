@@ -25,9 +25,7 @@ Hello friends! Welcome to my page! I am *Fu Li*, a Ph.D candidate from [Compuata
 
 <hr>
 <h3 class="text-center">News</h3>
-- [09/21] ``RL for reaction channel'' was accepted by Mach. Learn.: Sci. and Tech. . Cheers!i
-- [09/06] ``NeurVec'' was accepted by Sci. Reports. Cheers! 
-- [06/19] ``Reproducing activation function'' was accepted by Comm Math Sci. Cheers!
+- No news is good news!
 
 <hr>
 
@@ -46,7 +44,7 @@ Hello friends! Welcome to my page! I am *Fu Li*, a Ph.D candidate from [Compuata
 </div>
 <div class="col-14 col-sm-8 my-pub-r">
 <p class="my-pub-heading">(2023) A Forward Model Incorporating Elevation-Focused Transducer Properties for 3-D Full-Waveform Inversion in Ultrasound Computed Tomography </p>
-<div style="margin-bottom: 10px;"></div>
+<div style="margin-bottom: 2px;"></div>
 <p markdown="1">
 **Fu Li**, Umberto Villa, Nebojsa Duric, Mark A Anastasio. IEEE  Transactions on UFFC.  [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10244105).
 </p>
@@ -61,7 +59,7 @@ Hello friends! Welcome to my page! I am *Fu Li*, a Ph.D candidate from [Compuata
 </div>
 <div class="col-14 col-sm-8 my-pub-r">
 <p class="my-pub-heading">(2021) 3-D Stochastic Numerical Breast Phantoms for Enabling Virtual Imaging Trials of Ultrasound Computed Tomography </p>
-<div style="margin-bottom: 10px;"></div>
+<div style="margin-bottom: 2px;"></div>
 <p markdown="1">
 **Fu Li**, Umberto Villa, Seonyeong Park, Mark A Anastasio. IEEE  Transactions on UFFC.  [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9537158).
 </p>
@@ -150,7 +148,7 @@ Bioengineering Distinguished Seminar Series, UIUC, Urbana, 2023
 
 
 - *Prediction of Clinical Target Volume for Nasopharyngeal Carcinoma Using Hidden Markov Model Trained from 2000 Patient Dataset.* 
-Annual Meeting of the Radiological Society of North America (RSNA), Chicago, 2017.
+RSNA, Chicago, 2017.
 
 
 <hr>
