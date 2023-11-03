@@ -32,6 +32,7 @@
 }
 
 .my-pub-heading {
+  margin-top:1;
   margin-bottom: 0;
   font-weight: bold;
 }
@@ -49,7 +50,7 @@
 }
 
 .my-name {
-  margin-top: 10px;
+  margin-top: 8px;
   font-weight: bold;
   font-size: 28px;
   margin-bottom: 4px;
@@ -61,7 +62,7 @@ p[markdown="1"] {
 
 .my-pub-main{
   >div.my-pub-r{
-      margin: 0;
+      margin-top: 1;
       display: flex;
       flex-direction: column;
       justify-content: center;
