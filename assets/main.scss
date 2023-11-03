@@ -5,8 +5,8 @@
 @import "styles";
 
 .my-main-nav {
-  background-image: url('/img/banner.jpg');
-  background-size: auto;
+  background-image: url('/img/test.gif');
+  background-size: cover;
   @media only screen and (min-width: 960px) {
 	background-size: 100%;
   }
