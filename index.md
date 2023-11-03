@@ -33,7 +33,7 @@ Hello friends! Welcome to my page! I am *Fu Li*, a Ph.D candidate from [Compuata
 
 <h3 class="text-center">Work Experience</h3>
 
-- Algorithm Engineer at [**Pvmed**](https://www.pvmedtech.com/en/about.html), wokring a medical imaging processing, clinical data anaylsis from 2016 to 2018
+- Algorithm Engineer at [**Pvmed**](https://www.pvmedtech.com/en/about.html), working on medical imaging processing, clinical data anaylsis from 2016 to 2018
 
 <hr>
 
