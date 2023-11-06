@@ -15,7 +15,7 @@ layout: home
 <div class="col-md-8 col-sm-8" markdown="1">
 Hello, I am *Fu Li*, a Ph.D candidate from [Compuatational Imaging Science Lab](https://anastasio.bioengineering.illinois.edu/) at University of Illinois Urbana-Champaign. I am supervised by [Dr. Mark A Anastasio](https://bioengineering.illinois.edu/people/maa) and [Dr. Umberto Villa](https://uvilla.github.io/).  I earned my BSc degree in Computational Mathematics from Sun Yat-sen University, China.
 
-I have rich experiences in numerical modeling, optimization, tomographic imaging, deep learning for medical imaging applications. My PhD research is about developling PDE-constrained optimization problem for high-resolution imaging using ultrasound.
+I have rich experience in numerical modeling, optimization, tomographic imaging, and deep learning for medical imaging applications. My Ph.D. research focuses on developing PDE-constrained optimization problems for high-resolution imaging using ultrasound.
 
 **Research Interest:** Computational imaging, Medical imaging, Full waveform inversion, Deep learning.
 
