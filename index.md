@@ -13,7 +13,7 @@ layout: home
 </div>
 
 <div class="col-md-8 col-sm-8" markdown="1">
-Hello, I am *Fu Li*, a Ph.D candidate from [Compuatational Imaging Science Lab](https://anastasio.bioengineering.illinois.edu/) at University of Illinois Urbana-Champaign. I am supervised by [Dr. Mark A Anastasio](https://bioengineering.illinois.edu/people/maa) and [Dr. Umberto Villa](https://uvilla.github.io/).  I earned my BSc degree in Computational Mathematics from Sun Yat-sen University, China.
+Hello, I am *Fu Li*, a Ph.D candidate from [Compuatational Imaging Science Lab](https://anastasio.bioengineering.illinois.edu/) at University of Illinois Urbana-Champaign. I am supervised by [Dr. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa) and [Dr. Umberto Villa](https://uvilla.github.io/).  I earned my BSc degree in Computational Mathematics from Sun Yat-sen University, China.
 
 I have rich experience in numerical modeling, optimization, tomographic imaging, and deep learning for medical imaging applications. My Ph.D. research focuses on developing PDE-constrained optimization problems for high-resolution imaging using ultrasound.
 
@@ -44,7 +44,7 @@ I have rich experience in numerical modeling, optimization, tomographic imaging,
 <div class="col-14 col-sm-8 my-pub-r">
 <p class="my-pub-heading">(2023) A Forward Model Incorporating Elevation-Focused Transducer Properties for 3-D Full-Waveform Inversion in Ultrasound Computed Tomography </p>
 <p markdown="1">
-**Fu Li**, Umberto Villa, Nebojsa Duric, Mark A Anastasio. IEEE  Transactions on UFFC.  [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10244105).
+**Fu Li**, Umberto Villa, Nebojsa Duric, Mark A. Anastasio. IEEE  Transactions on UFFC.  [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10244105).
 </p>
 </div>
 </div>
@@ -58,7 +58,7 @@ I have rich experience in numerical modeling, optimization, tomographic imaging,
 <div class="col-14 col-sm-8 my-pub-r">
 <p class="my-pub-heading">(2021) 3-D Stochastic Numerical Breast Phantoms for Enabling Virtual Imaging Trials of Ultrasound Computed Tomography </p>
 <p markdown="1">
-**Fu Li**, Umberto Villa, Seonyeong Park, Mark A Anastasio. IEEE  Transactions on UFFC.  [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9537158).
+**Fu Li**, Umberto Villa, Seonyeong Park, Mark A. Anastasio. IEEE  Transactions on UFFC.  [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9537158).
 </p>
 </div>
 </div>
@@ -118,7 +118,7 @@ Gangwon Jeong, **Fu Li**, Umberto Villa, Mark A. Anastasio. SPIE medical imaging
 <div class="col-14 col-sm-8 my-pub-r">
 <p class="my-pub-heading">(2023) Learned Full Waveform Inversion Incorporating Task Information for Ultrasound Computed Tomography </p>
 <p markdown="1">
-Luke Lozenski, Hanchen Wang, **Fu Li**, Mark A Anastasio, Brendt Wohlberg, Youzuo Lin, Umberto Villa. Arxiv.  [[PDF]](https://arxiv.org/pdf/2308.16290.pdf).
+Luke Lozenski, Hanchen Wang, **Fu Li**, Mark A. Anastasio, Brendt Wohlberg, Youzuo Lin, Umberto Villa. Arxiv.  [[PDF]](https://arxiv.org/pdf/2308.16290.pdf).
 </p>
 </div>
 </div>
