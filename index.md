@@ -101,9 +101,9 @@ Seonyeong Park, Umberto Villa, **Fu Li**, Refik Mert Cam, Alexander A. Oraevsky,
 </div>
 </div>
 <div class="col-14 col-sm-8 my-pub-r">
-<p class="my-pub-heading">(2023) A deep learning-based image reconstruction method for USCT that employs multimodality inputs </p>
+<p class="my-pub-heading">(2023) Investigating the Use of Traveltime and Reflection Tomography for Deep Learning-Based Sound-Speed Estimation in Ultrasound Computed Tomography </p>
 <p markdown="1">
-Gangwon Jeong, **Fu Li**, Umberto Villa, Mark A. Anastasio. SPIE medical imaging.  [[PDF]](https://www.researchgate.net/profile/Fu-Li-16/publication/369931052_A_deep_learning-based_image_reconstruction_method_for_USCT_that_employs_multimodality_inputs/links/64358823ad9b6d17dc4eeb46/A-deep-learning-based-image-reconstruction-method-for-USCT-that-employs-multimodality-inputs.pdf).
+Gangwon Jeong, **Fu Li**, Umberto Villa, Mark A. Anastasio. Arxiv.  [[PDF]](https://arxiv.org/pdf/2311.10193.pdf).
 </p>
 </div>
 </div>
