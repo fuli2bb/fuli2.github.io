@@ -23,6 +23,10 @@ I have rich experience in numerical modeling, optimization, tomographic imaging,
 [ResearchGate](https://www.researchgate.net/profile/Fu-Li-16),
 [Linkedin](https://www.linkedin.com/in/lifu2bkop/).
 
+<hr>
+
+News: Looking forward to SPIE Medical Imaging in Feb 2024, San Diego! If you're around, hit me up on email or LinkedIn. Let's grab a coffee and swap some cool ideas.
+
 </div>
 </div>
 
