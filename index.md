@@ -15,7 +15,7 @@ layout: home
 <div class="col-md-8 col-sm-8" markdown="1">
 Hello, I am *Fu Li*, a Ph.D candidate from [Compuatational Imaging Science Lab](https://anastasio.bioengineering.illinois.edu/) at University of Illinois Urbana-Champaign. I am supervised by [Dr. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa) and [Dr. Umberto Villa](https://uvilla.github.io/).  I earned my BSc degree in Computational Mathematics from Sun Yat-sen University, China.
 
-I have rich experience in numerical modeling, optimization, tomographic imaging, and deep learning for medical imaging applications. Skilled in CUDA, C++, Python, Algorithm Development, Deep learning based applications. My Ph.D. research focuses on developing PDE-constrained optimization problems for high-resolution imaging using ultrasound.
+I have rich experience in numerical modeling, optimization, tomographic imaging, and deep learning for medical imaging applications. My Ph.D. research focuses on developing advanced PDE-constrained optimization problems for high-resolution imaging using ultrasound.
 
 **Research Interest:** Computational imaging, Medical imaging, Full waveform inversion, Deep learning.
 
@@ -77,7 +77,7 @@ News: Looking forward to SPIE Medical Imaging in Feb 2024, San Diego! If you're 
 <div class="col-14 col-sm-8 my-pub-r">
 <p class="my-pub-heading">(2023) Stochastic three-dimensional numerical phantoms to enable computational studies in quantitative optoacoustic computed tomography of breast cancer </p>
 <p markdown="1">
-Seonyeong Park, Umberto Villa, **Fu Li**, Refik Mert Cam, Alexander A. Oraevsky, Mark A. Anastasio. Journal of Biomedical Optics.  [[Link]](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-28/issue-6/066002/Stochastic-three-dimensional-numerical-phantoms-to-enable-computational-studies-in/10.1117/1.JBO.28.6.066002.full?SSO=1).
+Seonyeong Pirk, Umberto Villa, **Fu Li**, Refik Mert Cam, Alexander A. Oraevsky, Mark A. Anastasio. Journal of Biomedical Optics.  [[Link]](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-28/issue-6/066002/Stochastic-three-dimensional-numerical-phantoms-to-enable-computational-studies-in/10.1117/1.JBO.28.6.066002.full?SSO=1).
 </p>
 </div>
 </div>
