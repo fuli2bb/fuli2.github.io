@@ -101,6 +101,21 @@ Seonyeong Pirk, Umberto Villa, **Fu Li**, Refik Mert Cam, Alexander A. Oraevsky,
 <div class="row my-pub-main">
 <div class="col-14 col-sm-4">
 <div class="text-center">
+<img src="/img/learnfwi.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-14 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2023) Learned Full Waveform Inversion Incorporating Task Information for Ultrasound Computed Tomography </p>
+<p markdown="1">
+Luke Lozenski, Hanchen Wang, **Fu Li**, Mark A. Anastasio, Brendt Wohlberg, Youzuo Lin, Umberto Villa. IEEE Transactions on computational imaging.  [[PDF]](https://arxiv.org/pdf/2308.16290.pdf).
+</p>
+</div>
+</div>
+
+
+<div class="row my-pub-main">
+<div class="col-14 col-sm-4">
+<div class="text-center">
 <img src="/img/usct_dl.png" class="rounded img-fluid my-profile-picture">
 </div>
 </div>
@@ -113,19 +128,7 @@ Gangwon Jeong, **Fu Li**, Umberto Villa, Mark A. Anastasio. Arxiv.  [[PDF]](http
 </div>
 
 
-<div class="row my-pub-main">
-<div class="col-14 col-sm-4">
-<div class="text-center">
-<img src="/img/learnfwi.png" class="rounded img-fluid my-profile-picture">
-</div>
-</div>
-<div class="col-14 col-sm-8 my-pub-r">
-<p class="my-pub-heading">(2023) Learned Full Waveform Inversion Incorporating Task Information for Ultrasound Computed Tomography </p>
-<p markdown="1">
-Luke Lozenski, Hanchen Wang, **Fu Li**, Mark A. Anastasio, Brendt Wohlberg, Youzuo Lin, Umberto Villa. Arxiv.  [[PDF]](https://arxiv.org/pdf/2308.16290.pdf).
-</p>
-</div>
-</div>
+
 
 
 <hr>
