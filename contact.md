@@ -4,7 +4,5 @@ layout: page
 
 ## Contact me
 
-My email: fuli2@illinois.edu
-
-## Visitor
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QIPByJPad1CpyETIrcsn9UkBNsTyCB04_W4sG6DGyzg"></script>
+My email: fuli2@illinois.edu  lifu2bkop@hotmail.com
+Phone: +1 3142240690
