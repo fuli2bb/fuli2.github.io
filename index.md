@@ -30,7 +30,7 @@ I have rich experience in numerical modeling, optimization, tomographic imaging,
 
 <h3 class="text-center">Work Experience</h3>
 
-- CT research intern at Canon Medical Research, USA, working on photon counting CT, learning-based image denoising, and reconstruction during the summer of 2024.
+- CT research intern at **Canon Medical Research, USA**, working on photon counting CT, learning-based image denoising, and reconstruction during the summer of 2024.
 
 - Algorithm Engineer at [**PVmed**](https://www.pvmedtech.com/en/about.html), working on medical imaging processing, clinical data anaylsis from 2016 to 2018
 
